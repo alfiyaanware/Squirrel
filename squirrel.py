@@ -7,7 +7,7 @@ BG = (255,255,255)
 BLACK=(0,0,0)
 
 FPS=60
-
+#okiiiiissssskskskskkskskskskskksksksksksksksksksksksksksksksksksksksksksksksksksksksksksk
 pygame.font.init()
 pygame.mixer.init()
 
